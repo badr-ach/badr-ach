@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋/h1>
+<h1 align="center">Hi there 👋</h1>
 
 - 🔭 I’m currently studying computer science in **Polytech Nice Sophia**
 
