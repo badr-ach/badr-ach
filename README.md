@@ -6,12 +6,13 @@
 
 - 📫 How to reach me **alachkarbadr@gmail.com**
 
-<h3 align="left">Connect with me on LinkedIn <span> <a href="https://www.linkedin.com/in/badr-ach/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a> </span></h3>
+<h3 align="left">Connect with me on </h3> 
+- <span> LinkedIn : <a href="https://www.linkedin.com/in/badr-ach/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a> </span>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badr-ach&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="badr-ach" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=badr-ach&theme=tokyonight" alt="badr-ach" />
 </p>
